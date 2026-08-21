@@ -129,7 +129,4 @@ meeting-summarizer/
 ## 📄 License
 
 This project is open source and available under the [MIT License](https://choosealicense.com/licenses/mit/).
-=======
-📄 License
-This project is open source and available under the MIT License.
->>>>>>> Stashed changes
+
