@@ -1,0 +1,22 @@
+# Sensitive config
+.env
+
+# Java/Spring Boot Build artifacts
+target/
+*.class
+
+# Frontend Dependencies & Build artifacts
+node_modules/
+dist/
+.next/
+out/
+
+# IDE and OS temporary files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
