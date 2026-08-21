@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/a34707aa-974c-4c2e-b9da-657a01cb5270
 
 ## ✨ Features
 
-* **Large Audio File Support:** Safely upload meeting recordings (MP3, WAV, M4A) up to 50MB without crashing.
+* **Large Audio File Support:** Safely upload meeting recordings (MP3, WAV, M4A) up to 100MB without crashing.
 * **High-Accuracy Transcription:** Utilizes **AssemblyAI** to transcribe long-form audio seamlessly, bypassing standard 25MB API limits.
 * **Lightning-Fast AI Summarization:** Integrates with **Groq's OpenAI-compatible API** (running open-source LLMs) for instant, structured meeting analysis without rate-limit bottlenecks.
 * **Smart Dashboard:** A beautifully styled, responsive UI that saves your meeting history locally so you never lose past summaries.
